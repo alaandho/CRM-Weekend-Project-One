@@ -1,23 +1,32 @@
+h4 {
+    font-weight: Bold;
+}
+
+.text-center-font {
+    font-size: 12px
+}
+
+
 .Icon-mid-text {
     text-align: center;
     font-size: 22px;
-    font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .padding27 {
     padding-bottom: 50px;
+    font-weight: Bold;
 }
 
 .image-text-bottom {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: Bold;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 20px;
 }
 
 .moretextmorewords {
-    font-size: 14px;
+    font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
 }
@@ -26,16 +35,14 @@
     border-radius: 10px;
     color: black;
     font-family: Brush Script MT;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 10;
     padding: 5px;
     background-color: white;
     border: solid black 1px;
     text-decoration: none;
     text-align: center;
-    margin: 20px;
     float: center;
-    font-weight: bold;
     padding-left: 20px;
     padding-right: 20px;
 }
