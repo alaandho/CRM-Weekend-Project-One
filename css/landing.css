@@ -6,10 +6,12 @@ h4 {
     font-size: 12px
 }
 
-
 .Icon-mid-text {
     text-align: center;
     font-size: 22px;
+
+    
+
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -34,7 +36,6 @@ h4 {
 .Learnmorebutton {
     border-radius: 5px;
     color: black;
-<<<<<<< HEAD
     font-family: Brush Script MT;
     font-size: 15px;
     font-weight: 10;
@@ -56,13 +57,9 @@ h4 {
     
 .buttonsssss {
     padding-bottom: 100px;
-=======
->>>>>>> e8710a1572c7a2f75db32bf0eccbcdad68106afe
 }
 
-a {
-    text-decoration: none;
-}
+
 
 /* Footer css styles */
 
@@ -74,10 +71,6 @@ a {
     background-color: blue;
     color: white;
 }
-
-
-
-
 
 
 .below {
@@ -112,21 +105,14 @@ a {
 .chat-with-us {
     border-radius: 5px;
     color: #0059A0;
-<<<<<<< HEAD
     font-family: Brush Script MT;
     font-size: 15px;
     font-weight: 10;
-=======
-    /* font-family: Brush Script MT; */
-    font-size: 20px;
-    font-weight: 5;
->>>>>>> e8710a1572c7a2f75db32bf0eccbcdad68106afe
     padding: 5px;
     background-color: white;
     border: solid black 1px;
     text-decoration: none;
     text-align: center;
-<<<<<<< HEAD
     float: center;
     padding-left: 20px;
     padding-right: 20px;
@@ -134,9 +120,6 @@ a {
 
 .Learnmorebutton:hover {
     width: 160px;
-=======
-    width: 180px;
->>>>>>> e8710a1572c7a2f75db32bf0eccbcdad68106afe
     margin: 20px;
     float: left;
     font-weight: bold;
@@ -236,15 +219,16 @@ li {
     border-radius: 5px;
     color: black;
     /* font-family: Brush Script MT; */
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 10;
     padding: 5px;
+    padding-left:20px;
     background-color: white;
     border: solid black 2px;
     text-decoration: none;
     text-align: center;
     width: 250px;
-    float: left;
+    float: center;
     font-weight: bold;
     margin-bottom: 40px;
     margin-top: 30px;
@@ -256,6 +240,8 @@ li {
     text-decoration: none;
     color:white;
 }
+
+
 
 .buttonsssss {
     padding-bottom: 100px;
